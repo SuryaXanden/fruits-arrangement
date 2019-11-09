@@ -1,0 +1,35 @@
+Fruit(s) on tree(s) : ['apple', 'apple', 'apple', 'apple', 'banana', 'banana', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple']
+
+Fruit(s) on tree(s) : ['apple', 'apple', 'apple', 'banana', 'banana', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana']
+
+Fruit(s) on tree(s) : ['apple', 'apple', 'apple', 'banana', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple']
+
+Fruit(s) on tree(s) : ['apple', 'apple', 'banana', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple', 'banana']
+
+Fruit(s) on tree(s) : ['apple', 'apple', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple', 'banana', 'apple']
+
+Fruit(s) on tree(s) : ['apple', 'banana', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple', 'banana', 'apple', 'banana']
+
+Fruit(s) on tree(s) : ['apple', 'mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple', 'banana', 'apple', 'banana', 'apple']
+
+Fruit(s) on tree(s) : ['mango', 'mango']
+
+Fruit(s) in my BASKET : ['apple', 'banana', 'apple', 'banana', 'apple', 'banana', 'apple', 'mango']
+
+Fruit(s) on tree(s) : ['mango']
+
+Fruit(s) in my BASKET : ['mango', 'apple', 'banana', 'apple', 'banana', 'apple', 'banana', 'apple', 'mango']
